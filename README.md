@@ -4,11 +4,15 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nithila-kaluarachchi.github.io/)
 
-<p align="center">
+<p align="left">
   
 ![Nithila-Nimadith's Stats](https://github-readme-stats.vercel.app/api?username=Nithila-Kaluarachchi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   
 </p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithila-Kaluarachchi&layout=compact&theme=vue-dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
 
 
 ## 🔗 Powers
