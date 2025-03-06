@@ -33,7 +33,7 @@
 
 👽 Listen My Peace Here 👽
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vdhu5pozfmboii082gvra3lc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/5vdhu5pozfmboii082gvra3lc)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vdhu5pozfmboii082gvra3lc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 </h2>
