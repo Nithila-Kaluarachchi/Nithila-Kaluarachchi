@@ -5,11 +5,6 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nithila-kaluarachchi.github.io/)
 
 
-<p align="left">
-  
-![Nithila-Nimadith's Stats](https://github-readme-stats.vercel.app/api?username=Nithila-Kaluarachchi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  
-</p>
 <div align="center">
   <table>
     <tr>
